@@ -1,0 +1,18 @@
+{
+  "devMode": true,
+  "organization": "AMCO",
+  "name": "DA plot",
+  "description": "First custom plot from DA team",
+  "components":[
+    {
+     "resource":
+     {
+      "id": "custom_bar_chart",
+      "name": "DA plot",
+      "description": "First custom plot from DA team",
+      "js": "https://raw.githubusercontent.com/AMCODavidRocha/lookerCustomPlots/main/viz.js",
+      "config": "https://raw.githubusercontent.com/AMCODavidRocha/lookerCustomPlots/main/config.json"
+     }
+    }
+  ]
+}
