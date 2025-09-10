@@ -1,0 +1,15 @@
+{
+  "data": {
+    "metrics": [
+      {
+        "id": "metric",
+        "label": "Métrica",
+        "type": "NUMBER",
+        "required": true
+      }
+    ],
+    "dimensions": []
+  },
+  "style": {},
+  "theme": {}
+}
